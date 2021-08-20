@@ -1,0 +1,16 @@
+{
+  "experience": [
+    "No experience"
+  ],
+  "jobDescription": "Manage people",
+  "jobId": 101,
+  "jobTitle": "Manager",
+  "project": [
+    {
+      "projectName": "ABC",
+      "technology": [
+        "Jira"
+      ]
+    }
+  ]
+}
